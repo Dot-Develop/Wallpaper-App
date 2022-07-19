@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "289716478015",
+    "firebase_url": "https://flutter-wallpaper-demo-c8f69.firebaseio.com",
+    "project_id": "flutter-wallpaper-demo-c8f69",
+    "storage_bucket": "flutter-wallpaper-demo-c8f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289716478015:android:71c08b9954b4e564e7588a",
+        "android_client_info": {
+          "package_name": "com.mohammed.wallyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "289716478015-a2rt5p5iiesedfqgkbh48ppuqarfnjej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mohammed.wallyapp",
+            "certificate_hash": "09c0bef2ec2ecab5e02f80433055133e31c50e6a"
+          }
+        },
+        {
+          "client_id": "289716478015-0p04gpkqaihup0nouuput05nknn2ljms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqjnSSBk0-qJscUXPVnFOFxWzy0NhjO1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "289716478015-0p04gpkqaihup0nouuput05nknn2ljms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "289716478015-f35pbhgqb3ofsrks9v9t0h0bns85uduh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mohammed.wallyapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
